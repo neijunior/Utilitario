@@ -1,0 +1,10 @@
+C:\NeiJr\Utilitario\Validacao\bin\Debug\netstandard2.0\Validacao.deps.json
+C:\NeiJr\Utilitario\Validacao\bin\Debug\netstandard2.0\Validacao.dll
+C:\NeiJr\Utilitario\Validacao\bin\Debug\netstandard2.0\Validacao.pdb
+C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.csproj.AssemblyReference.cache
+C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.AssemblyInfoInputs.cache
+C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.AssemblyInfo.cs
+C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.csproj.CoreCompileInputs.cache
+C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.dll
+C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.pdb
