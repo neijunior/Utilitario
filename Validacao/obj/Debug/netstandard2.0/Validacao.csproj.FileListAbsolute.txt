@@ -6,5 +6,6 @@ C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.GeneratedMSBuil
 C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.AssemblyInfoInputs.cache
 C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.AssemblyInfo.cs
 C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.csproj.CoreCompileInputs.cache
+C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.sourcelink.json
 C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.dll
 C:\NeiJr\Utilitario\Validacao\obj\Debug\netstandard2.0\Validacao.pdb
